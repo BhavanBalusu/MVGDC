@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.51ac0cd8.css",
+    "main.js": "/react-gh-pages/static/js/main.8d80c79b.js",
+    "static/media/home.png": "/react-gh-pages/static/media/home.95ffb5acf7001b57caeb.png",
+    "static/media/BhavanBalusu.jpg": "/react-gh-pages/static/media/BhavanBalusu.5b923eda7fb6df904298.jpg",
+    "static/media/RohithMuthukumar.jpg": "/react-gh-pages/static/media/RohithMuthukumar.a9bc040808b019527dc0.jpg",
+    "static/media/BrandonXu.jpg": "/react-gh-pages/static/media/BrandonXu.c3364899513c96318603.jpg",
+    "static/media/KorenGila.jpg": "/react-gh-pages/static/media/KorenGila.ffcb8e259f540b52f74b.jpg",
+    "static/media/bootstrap-icons.woff?": "/react-gh-pages/static/media/bootstrap-icons.7ff3ca6fa798de3f8ac2.woff",
+    "static/media/logo.png": "/react-gh-pages/static/media/logo.021bbe93fa767930e80a.png",
+    "static/media/bootstrap-icons.woff2?": "/react-gh-pages/static/media/bootstrap-icons.f2539a501be3a673de05.woff2",
+    "static/media/text-logo.png": "/react-gh-pages/static/media/text-logo.53491aad36eaf3ed6ae4.png",
+    "static/media/burger.png": "/react-gh-pages/static/media/burger.30796285292acaba1116.png",
+    "static/media/codeImage.webp": "/react-gh-pages/static/media/codeImage.cb30eb14ce131f4dc85f.webp",
+    "index.html": "/react-gh-pages/index.html",
+    "main.51ac0cd8.css.map": "/react-gh-pages/static/css/main.51ac0cd8.css.map",
+    "main.8d80c79b.js.map": "/react-gh-pages/static/js/main.8d80c79b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51ac0cd8.css",
+    "static/js/main.8d80c79b.js"
+  ]
+}
